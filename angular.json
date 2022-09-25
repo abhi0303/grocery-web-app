@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "grocery-web-app"
+    }
+  },
+  "defaultProject": "grocery-web-app",
+  "cli": {
+    "analytics": false
+  }
 }
